@@ -26,7 +26,7 @@ function reversed(text) {
 };
 
 const paragraph = "I am Rakib. I am a website developer.";
-// console.log(reversed(paragraph));
+console.log(reversed(paragraph));
 
 
 // shortcut system:
@@ -36,4 +36,4 @@ function wordReverse(myText) {
 };
 
 const myText = "my laptops color is silver";
-console.log(wordReverse(myText));
+// console.log(wordReverse(myText));
