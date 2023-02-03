@@ -14,6 +14,6 @@ function secondLargest(numbers) {
     return secLargest;
 };
 
-const myNumbers = [3, 5, 45, 2, 18, 9];
+const myNumbers = [3, 5, 45, 2, 18, 45, 13];
 const secLarge = secondLargest(myNumbers);
 console.log(secLarge);
